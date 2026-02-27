@@ -1,4 +1,4 @@
 ### user|exp|ip
 ### ZiVPN lifetime 202.155.132.98
-### haniefautophile lifetime 38.47.180.23
+### ZiVPN lifetime 38.47.180.23
 ### ZiVPN lifetime 103.150.227.86
